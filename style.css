@@ -2,6 +2,9 @@ body{
     background-color: rgb(12, 12, 12);
 }
 h1{
+    display: flex;
+    justify-content: center;
     color: blanchedalmond;
     border: 2px solid saddlebrown;
+    padding: 1rem;
 }
